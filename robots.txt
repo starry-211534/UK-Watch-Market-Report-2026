@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap location for the UK Market Report
+Sitemap: https://starry-211534.github.io/UK-Watch-Market-Report-2026/sitemap.xml
